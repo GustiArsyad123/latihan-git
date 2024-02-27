@@ -9,9 +9,10 @@
 7. Michelyn Angela Sabatini ................
 8. Calvin Febriando ................
 9. Aid Fawwaz
-10. Abigail Cherdy ................
+10. Abigail Cherdy Hartono
 12. Hasna ................
 13. Owent ................
+14. Gusti Arsyad
 
 Latihan ke:
 1. membuat branch baru nama kalian misalnya : branch arsyad
@@ -35,5 +36,3 @@ Guidelines:
 
 1. git rebase origin main
 2. git rebase -f
-
-tambahan
