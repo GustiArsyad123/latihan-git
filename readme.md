@@ -34,3 +34,4 @@ Guidelines:
 1. git log "cek log"
 
 1. git rebase origin main
+2. git rebase -f
